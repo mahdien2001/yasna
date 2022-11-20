@@ -26,7 +26,7 @@
                     <span class="">{{article.description}}</span>
                 </v-card-title>
 
-                <v-card-text class="text-h7">{{article.body}}</v-card-text>
+                <v-card-text class="text-h7" style="white-space: pre-line">{{article.body}}</v-card-text>
 
             </v-card>
         </div>
